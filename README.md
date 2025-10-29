@@ -1,11 +1,7 @@
 # FUTURE_FS_02
 
 # ****Mini E-commerce Storefront***
-A mini e-commerce storefront built with React.js featuring product listings, shopping cart, and checkout simulation. Includes filtering, search, and form validation.
-
-
-
-
+A full-stack e-commerce web application built with React.js and Node.js. Features product catalog, shopping cart, and checkout system with MongoDB database integration. Demonstrates modern web development with responsive design and state management using Context API.
 # Built With
 
 - **Frontend:** React, Tailwind CSS
@@ -13,7 +9,7 @@ A mini e-commerce storefront built with React.js featuring product listings, sho
 - **Database:** MongoDB
 - **State Management:** Context API
 
-## 📁 Project Structure
+## Project Structure
 ```
 mini-ecommerce/
 ├── backend/
@@ -33,12 +29,12 @@ mini-ecommerce/
 
 # Features
 
-· View all products
-· Search and filter products
-· Add products to shopping cart
-· Remove items from cart
-· Checkout form with validation
-· Responsive design
+· - View all products.-
+· - Search and filter products.-
+· - Add products to shopping cart.-
+· - Remove items from cart.- 
+· - Checkout form with validation.-
+· - Responsive design.-
 
 
 **Backend Setup:**
