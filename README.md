@@ -29,13 +29,12 @@ mini-ecommerce/
 
 # Features
 
-· - View all products.-
-· - Search and filter products.-
-· - Add products to shopping cart.-
-· - Remove items from cart.- 
-· - Checkout form with validation.-
-· - Responsive design.-
-
+· View all products
+· Search and filter products
+· Add products to shopping cart
+· Remove items from cart
+· Checkout form with validation
+· Responsive design
 
 **Backend Setup:**
   ``` bash
